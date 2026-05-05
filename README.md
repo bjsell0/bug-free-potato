@@ -1,4 +1,5 @@
 
+Automated Wireless Attack Script
 
 The research for this project consisted of research of wireless auditing tools, python scripting,
 and other security utility tools, and how every part serves a purpose. The code for this project is
